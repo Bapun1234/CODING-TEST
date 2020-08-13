@@ -1,0 +1,47 @@
+Coding Test.
+
+Logic implementation
+
+1) As per the question we have to take "Cycle" as a class.
+
+2)Tyre-1(Tube Tyre ) and Tyre-2(Tubeless Tyre) are two type of objects.
+
+3) Tyre-1 having 5 components as well as Tyre-2 also having 5 components.
+
+4)Tyre cost can be varied .
+
+(200rs from jan 2016-Nov2016)
+
+(230 rs from Dec 2016-Nov2017)
+
+(260 rs from Dec 2017-Nov2018)
+
+(290 rs from Dec2018-Nov2019) 
+
+
+5)We can take command line input as a command line parameter .
+
+So here we can save the file as a "Cycle.json"
+
+and we need to pass the command line argument as a parameter.
+
+python cycle.json data
+
+
+6)Need to calculate Pricing for 1000 cycles using multithread.
+
+Here we can use a count.
+
+So wecan take count = 0
+ def count1(n):
+ while n>0:
+ n-==1
+start = time.time()
+count1(count)
+end = time.time()
+
+print("start and end")
+
+Note: Here Testing not necessary
+
+
