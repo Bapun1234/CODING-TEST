@@ -42,6 +42,49 @@ end = time.time()
 
 print("start and end")
 
+
+
+imort json
+import threading 
+import time
+
+class cycle:
+  def m1(self,frame,handlebarke,seating,wheels,chain assembly):
+  self.farme = frame
+  self.handlebarke = handlebarke
+  self.seating = seating
+  self.wheels = wheels
+  self.chain assembly = cahin assembly
+  
+  def m2(self,steelframe,gears,tubless tyres)
+  self.steelframe = stell frame
+  self.gears = gears
+  self.tubless tyres = tubeless tyres
+
+c = cycle()
+c.m1()
+c.m2()
+#print(m1)
+print(m2)
+
+data = {"jan 2016-non2017","dec2017-nov2017","dec2018-nov2018",:[{"200rs"},{"230rs"},{"260rs"}]}
+
+with open ("cycle.json",'w') as f1
+json.dumps(data,f1)
+
+python cycle.json data (as a command line argument)
+
+count = 0
+def count1(n):
+ while n>0:
+n-==1
+start = time.time()
+count1(count)
+end = time.time()
+print('start time and end time will be evaluated')
+
+
+
 Note: Here Testing not necessary
 
 
