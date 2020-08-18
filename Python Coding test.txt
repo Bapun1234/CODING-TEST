@@ -40,7 +40,7 @@ start = time.time()
 count1(count)
 end = time.time()
 
-print("start and end")
+print("start and end time": end-start)
 
 
 
